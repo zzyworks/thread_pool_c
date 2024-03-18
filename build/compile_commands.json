@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zzy0/vim_workspace/thread_poll_c/build/thread_pool",
+  "command": "/usr/bin/cc  -I/home/zzy0/vim_workspace/thread_poll_c/include  -o CMakeFiles/thread_pool.dir/thread_pool.c.o -c /home/zzy0/vim_workspace/thread_poll_c/thread_pool/thread_pool.c",
+  "file": "/home/zzy0/vim_workspace/thread_poll_c/thread_pool/thread_pool.c"
+},
+{
+  "directory": "/home/zzy0/vim_workspace/thread_poll_c/build/queue",
+  "command": "/usr/bin/cc  -I/home/zzy0/vim_workspace/thread_poll_c/include  -o CMakeFiles/queue.dir/queue.c.o -c /home/zzy0/vim_workspace/thread_poll_c/queue/queue.c",
+  "file": "/home/zzy0/vim_workspace/thread_poll_c/queue/queue.c"
+},
+{
+  "directory": "/home/zzy0/vim_workspace/thread_poll_c/build/tests",
+  "command": "/usr/bin/cc  -I/home/zzy0/vim_workspace/thread_poll_c/include -pthread -g -ggdb -O0 -Wall -fstack-protector-all -march=native -fnon-call-exceptions -o CMakeFiles/test.dir/test_thread_pool.c.o -c /home/zzy0/vim_workspace/thread_poll_c/tests/test_thread_pool.c",
+  "file": "/home/zzy0/vim_workspace/thread_poll_c/tests/test_thread_pool.c"
+}
+]

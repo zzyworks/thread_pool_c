@@ -1,0 +1,11 @@
+/home/zzy0/vim_workspace/thread_poll_c/build/CMakeFiles/edit_cache.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/CMakeFiles/rebuild_cache.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/thread_pool/CMakeFiles/thread_pool.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/thread_pool/CMakeFiles/edit_cache.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/thread_pool/CMakeFiles/rebuild_cache.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/queue/CMakeFiles/queue.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/queue/CMakeFiles/edit_cache.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/queue/CMakeFiles/rebuild_cache.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/tests/CMakeFiles/test.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/tests/CMakeFiles/edit_cache.dir
+/home/zzy0/vim_workspace/thread_poll_c/build/tests/CMakeFiles/rebuild_cache.dir

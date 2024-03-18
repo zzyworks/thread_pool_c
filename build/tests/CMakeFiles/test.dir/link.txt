@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test.dir/test_thread_pool.c.o -o ../../bin/test   -L/home/zzy0/vim_workspace/thread_poll_c/lib  -Wl,-rpath,/home/zzy0/vim_workspace/thread_poll_c/lib ../../lib/libqueue.a ../../lib/libthread_pool.a ../../lib/libqueue.a 
